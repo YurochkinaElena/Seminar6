@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\bin\Debug\net6.0\task39.exe
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\bin\Debug\net6.0\task39.deps.json
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\bin\Debug\net6.0\task39.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\bin\Debug\net6.0\task39.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\bin\Debug\net6.0\task39.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\refint\task39.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\task39.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar6\task39\obj\Debug\net6.0\ref\task39.dll
